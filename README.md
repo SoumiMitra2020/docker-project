@@ -4,6 +4,8 @@ To run the docker-compose file, run the following command:
 
 docker-compose up -d
 
+## After the containers are started, please wait for sometime and some Demo alerts will be fired and the alerts can be seen in the Prometheus UI, Alertmanager UI and Prom2Teams UI respectively.
+
 I've created the following containers:
 
 NGINX
