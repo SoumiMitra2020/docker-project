@@ -21,7 +21,7 @@ Please check the Documentation.docx file for more details.
 
 I've configured some Demo alerts in the alert.yml file to test this prometheus monitoring stack.
 
-# Reference:
+# Citations:
 
 I’ve taken reference from the following to implement this project.
 
